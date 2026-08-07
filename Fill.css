@@ -84,14 +84,13 @@ button {
   color: #C59B73;
 
   
-  
 } 
 
 #subbtn{
 background:oldlace;
 border:none;
 cursor:pointer;
-transition:all .25s ease;
+transition:all .24s ease;
 }
 
 #subbtn:hover{
